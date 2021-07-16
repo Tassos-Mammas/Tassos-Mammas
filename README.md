@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning and working on Python for my personal interest
 - 💞️ I’m looking to collaborate with inspired IT Professionals
 - 📫 How to reach me @ Anastasios.MAMMAS@intrasoft-intl.com 
+- 🐱‍👤 Fun Fact about me: I am highly interested in gaming and technology and atm I run two websites: www.thesession.gr & www.digitalnomadsgreece.com
 
 <!---
 Tassos-Mammas/Tassos-Mammas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
