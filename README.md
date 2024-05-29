@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Tassos-Mammas
-- 👀 I’m interested in matching talented Engineers to our exciting positions @ INTRASOFT Intl.
-- 🌱 I’m currently learning and working on Java for my personal interest
-- 💞️ I’m looking to collaborate with inspired IT Professionals
-- 📫 How to reach me @ Anastasios.MAMMAS@intrasoft-intl.com OR https://www.linkedin.com/in/tassosmammas/ 
-- 🐱‍👤 Fun Fact about me: I am highly interested in gaming and technology and atm I run two websites: www.thesession.gr & www.digitalnomadsgreece.com
+- 👀 I’m interested in Microsoft Power Platform and AI technologies
+- 🌱 I’m currently learning and working on Microsoft Power Platform
+- 💞️ I’m looking to collaborate with MS Power Platform professionnals
+- 📫 How to reach me @ amammas@netcompany.com OR https://www.linkedin.com/in/tassosmammas/ 
+- 🐱‍👤 Fun Fact about me: I am highly interested in gaming and technology
 
 <!---
 Tassos-Mammas/Tassos-Mammas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
